@@ -8,7 +8,6 @@
 ## Data Source
 **The data for this study comes from [VGChartz](https://www.vgchartz.com/), encompassing physical game sales data from 1980 to 2016. It's important to note that this dataset excludes financial figures. For a detailed understanding of VGChartz's data collection methods, click [here](https://www.vgchartz.com/methodology.php).**
 
-## Access to GameCo's Dataset
 **The dataset necessary for this analysis is available for download [here](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx).**
 
 ## Analytical Tools
