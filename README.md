@@ -11,7 +11,7 @@
 **The dataset necessary for this analysis is available for download [here](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx).**
 
 ## Analytical Tools
-**The project will utilize Microsoft Excel for data analysis and PowerPoint for presenting the findings.**
+**The project utilizes Microsoft Excel for data analysis and PowerPoint for presenting the findings.**
 
 
 
